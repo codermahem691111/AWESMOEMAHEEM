@@ -1,0 +1,162 @@
+#button {
+
+
+    background:#382CD0;
+    font-weight : 400;
+    padding : 0.4rem 1.4rem;
+    border-radius: 30px;
+    
+
+}
+
+#para {
+
+
+background: #382CD0;
+-webkit-background-clip: text;
+-moz-background-clip: text;
+-webkit-text-fill-color: transparent;
+-moz-text-fill-color : transparent;
+
+}
+
+#hero {
+
+
+background-image: url(./images/slider-bg.svg) ;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+
+#hd1 {
+
+    background: #0E0BDE;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color : transparent;
+    
+
+
+
+}
+
+#btn2 {
+
+background : #0E0BDE;
+
+
+
+
+
+}
+
+#btn3 {
+    background : #fff;
+}
+
+
+
+
+#block {
+
+
+
+background:#0E0BDE; 
+
+
+}
+
+#team {
+
+
+background : #0979C9;
+
+
+
+}
+
+
+
+
+#tims {
+
+margin-top: -90px;
+
+
+
+
+}
+
+#hd3 {
+
+color: #0E0BDE;
+
+
+
+}
+
+
+
+#footer {
+
+background:#0E0BDE;
+
+
+}
+
+#hd7 {
+    background: #0E0BDE;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color : transparent;
+    
+}
+    
+#hd6 {
+
+
+    background: #0E0BDE;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color : transparent;
+    
+}
+
+
+
+
+#hd5
+{
+    background: #0E0BDE;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color : transparent;
+    
+
+
+
+
+
+}
+
+
+
+#hd8 {
+
+    background: #0E0BDE;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color : transparent;
+    
+
+
+
+
+}
