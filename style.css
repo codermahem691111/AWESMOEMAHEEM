@@ -9,6 +9,148 @@
 
 }
 
+
+@media screen and (max-width: 600px)
+{
+  #btn2 {
+
+    width: 150px;
+  
+
+  } 
+
+
+}
+
+@media screen and (max-width: 600px)
+{
+  #btn3 {
+
+    width: 150px;
+  
+
+  } 
+
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+  #btnc {
+
+    width: 150px;
+  
+
+  } 
+
+
+}
+
+@media screen and (max-width: 600px)
+{
+  #btnd {
+
+    width: 150px;
+  
+
+  } 
+
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+  #imgc {
+    height: 300px;
+    width: 270px;
+  
+
+  } 
+
+
+}
+
+@media screen and (max-width: 600px)
+{
+  #imga {
+    height: 300px;
+    width: 270px;
+  
+
+  } 
+
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+  #imgb {
+    height: 300px;
+    width: 270px;
+  
+
+  } 
+
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+  #imgd {
+    height: 300px;
+    width: 270px;
+  
+
+  } 
+
+
+}
+
+
+#col6 {
+   margin-top: 30px;
+
+
+
+
+}
+
+#row6 {
+
+  margin-top: 36px;
+  margin-bottom: 30px;
+
+
+}
+
+
+#col4 {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+.btndiv {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+
+
+
+}
+
+
+
 #para {
 
 
